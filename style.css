@@ -5,7 +5,7 @@
 }
 
 .first-navbar {
-  padding: 25px 120px;
+  padding: 15px 120px;
   display: flex;
   justify-content: space-between;
   background: #411416;
@@ -15,11 +15,58 @@
   display: flex;
   align-items: center;
   color: #ffffff;
-  gap: 5px;
+  gap: 7px;
 }
 
 .email {
   font-weight: 700;
   font-size: 17px;
   line-height: 21px;
+}
+
+.orange-btn {
+    border: 1px solid #D48C3E;
+    border-radius: 4px;
+    padding: 7px 18px;
+    background: #D48C3E;
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 27px;
+}
+
+.second-navbar {
+    margin: 0 120px;
+    padding: 5px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-icon-and-name {
+    display: flex;
+    align-items: center;
+}
+
+.nav-name {
+    text-align: center;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #440D11;
+}
+
+.nav-list {
+    display: flex;
+    gap: 20px;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 21px;
+    color: #411416;
+}
+
+li {
+    list-style: none;
+    display: flex;
+    align-items: center;
 }
