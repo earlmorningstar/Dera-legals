@@ -150,3 +150,45 @@ li {
 #Our-team-of-ever-ready {
     margin-bottom: 50px;
 }
+
+.overall-full-box {
+    margin-top: 70px;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.full-box {
+    width: 300px;
+    height: 807px;
+}
+
+.icon-and-law-type-name {
+    padding: 15px;
+    border: 2px solid #000000;
+    text-align: center;
+}
+
+.full-box-law-type-name {
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 44px;
+    text-align: center;
+    color: #D48C3E;
+    margin-top: 10px;
+}
+
+.full-box-colored-part {
+    padding: 50px 14px;
+    background: #491013;
+    text-align: center;
+}
+
+.colored-part-text {
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 40px;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.94);
+    margin-bottom: 50px;
+}
