@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.first-navbar {
+  padding: 25px 120px;
+  display: flex;
+  justify-content: space-between;
+  background: #411416;
+}
+
+.icon-and-email {
+  display: flex;
+  align-items: center;
+  color: #ffffff;
+  gap: 5px;
+}
+
+.email {
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 21px;
+}
