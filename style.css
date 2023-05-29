@@ -51,7 +51,7 @@
 .nav-name {
     text-align: center;
     font-weight: 700;
-    font-size: 22px;
+    font-size: 20px;
     line-height: 27px;
     color: #440D11;
 }
@@ -69,4 +69,84 @@ li {
     list-style: none;
     display: flex;
     align-items: center;
+}
+
+.header-img {
+    position: relative;
+    overflow: hidden;
+}
+
+.info-on-header-img {
+    position: absolute;
+    top: 450px;
+    left: 300px;
+}
+
+.the-best-text {
+    font-family: 'Inter';
+    font-weight: 700;
+    font-size: 57px;
+    line-height: 69px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-bottom: 25px;
+}
+
+.we-fight-text {
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 37px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-bottom: 40px;
+}
+
+.header-btns {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.we-offer-heading{
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 46px;
+    text-align: center;
+    color: #000000;
+    margin-top: 40px;
+}
+
+.second-img-and-info {
+    margin-top: 40px;
+    display: flex;
+}
+
+.second-img {
+    width: 650px;
+    height: 400px;
+}
+
+.second-part-info {
+    background: #491013;
+    padding: 20px;
+}
+
+.welcome-to-dera-text {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 55px;
+    color: #FFFFFF;
+    margin-bottom: 20px;
+}
+
+.Our-team-of-ever-ready-text {
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 40px;
+    color: #FFFFFF;
+}
+
+#Our-team-of-ever-ready {
+    margin-bottom: 50px;
 }
