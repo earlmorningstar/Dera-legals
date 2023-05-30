@@ -212,6 +212,7 @@ li {
   margin: 0 120px;
   display: flex;
   justify-content: space-between;
+  margin-bottom: 70px;
 }
 
 .icon-and-details {
@@ -233,5 +234,18 @@ li {
   line-height: 81px;
   color: #000000;
   margin-left: 70px;
-  /* text-align: center; */
+}
+
+.mot-div {
+  margin: 70px 120px 0 120px;
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+}
+
+.meet-our-team-img-and-info {
+}
+
+.mot-img {
+  width: 300px;
 }
