@@ -152,7 +152,7 @@ li {
 }
 
 .overall-full-box {
-  margin-top: 70px;
+  margin: 70px 0 60px 0;
   display: flex;
   justify-content: center;
   gap: 30px;
@@ -160,7 +160,6 @@ li {
 
 .full-box {
   width: 300px;
-  height: 807px;
 }
 
 .icon-and-law-type-name {
@@ -196,11 +195,43 @@ li {
 .white-btn {
   border: 3px solid #d48c3e;
   border-radius: 8px;
-  padding: 7px 18px;
+  padding: 10px 30px;
   color: #d48c3e;
   background: #ffffff;
-  font-weight: 700;
-  font-size: 15px;
+  font-weight: 500;
+  font-size: 20px;
   line-height: 27px;
-  
+  margin-bottom: 40px;
+}
+
+.whitebtn {
+  text-align: center;
+}
+
+.activity-contents {
+  margin: 0 120px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.icon-and-details {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.activity-details{
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 37px;
+  color: #000000;
+}
+
+.activity-digits {
+  font-weight: 400;
+  font-size: 60px;
+  line-height: 81px;
+  color: #000000;
+  margin-left: 70px;
+  /* text-align: center; */
 }
