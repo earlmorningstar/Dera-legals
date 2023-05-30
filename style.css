@@ -237,15 +237,34 @@ li {
 }
 
 .mot-div {
-  margin: 70px 120px 0 120px;
+  margin: 70px 120px;
   display: flex;
   justify-content: center;
   gap: 30px;
 }
 
-.meet-our-team-img-and-info {
+.mot-img {
+  width: 350px;
 }
 
-.mot-img {
-  width: 300px;
+.mot-name-and-post {
+  text-align: center;
+  padding: 20px 0;
+  background: #FFFFFF;
+  box-shadow: 0px 7.27119px 36.3559px 9.08898px rgba(0, 0, 0, 0.25);
+}
+
+.mot-name {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+  color: #000000;
+}
+
+.mot-post {
+  font-style: italic;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+  color: #000000;
 }
