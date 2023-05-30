@@ -25,170 +25,182 @@
 }
 
 .orange-btn {
-    border: 1px solid #D48C3E;
-    border-radius: 4px;
-    padding: 7px 18px;
-    background: #D48C3E;
-    color: #ffffff;
-    font-weight: 700;
-    font-size: 15px;
-    line-height: 27px;
+  border: 1px solid #d48c3e;
+  border-radius: 6px;
+  padding: 7px 18px;
+  background: #d48c3e;
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 27px;
 }
 
 .second-navbar {
-    margin: 0 120px;
-    padding: 5px 0;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+  margin: 0 120px;
+  padding: 5px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .nav-icon-and-name {
-    display: flex;
-    align-items: center;
+  display: flex;
+  align-items: center;
 }
 
 .nav-name {
-    text-align: center;
-    font-weight: 700;
-    font-size: 20px;
-    line-height: 27px;
-    color: #440D11;
+  text-align: center;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 27px;
+  color: #440d11;
 }
 
 .nav-list {
-    display: flex;
-    gap: 20px;
-    font-weight: 700;
-    font-size: 17px;
-    line-height: 21px;
-    color: #411416;
+  display: flex;
+  gap: 20px;
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 21px;
+  color: #411416;
 }
 
 li {
-    list-style: none;
-    display: flex;
-    align-items: center;
+  list-style: none;
+  display: flex;
+  align-items: center;
 }
 
 .header-img {
-    position: relative;
-    overflow: hidden;
+  position: relative;
+  overflow: hidden;
 }
 
 .info-on-header-img {
-    position: absolute;
-    top: 450px;
-    left: 300px;
+  position: absolute;
+  top: 450px;
+  left: 300px;
 }
 
 .the-best-text {
-    font-family: 'Inter';
-    font-weight: 700;
-    font-size: 57px;
-    line-height: 69px;
-    text-align: center;
-    color: #FFFFFF;
-    margin-bottom: 25px;
+  font-family: "Inter";
+  font-weight: 700;
+  font-size: 57px;
+  line-height: 69px;
+  text-align: center;
+  color: #ffffff;
+  margin-bottom: 25px;
 }
 
 .we-fight-text {
-    font-family: 'Inter';
-    font-weight: 400;
-    font-size: 30px;
-    line-height: 37px;
-    text-align: center;
-    color: #FFFFFF;
-    margin-bottom: 40px;
+  font-family: "Inter";
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 37px;
+  text-align: center;
+  color: #ffffff;
+  margin-bottom: 40px;
 }
 
 .header-btns {
-    display: flex;
-    justify-content: center;
-    gap: 50px;
+  display: flex;
+  justify-content: center;
+  gap: 50px;
 }
 
-.we-offer-heading{
-    font-weight: 400;
-    font-size: 40px;
-    line-height: 46px;
-    text-align: center;
-    color: #000000;
-    margin-top: 40px;
+.we-offer-heading {
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 46px;
+  text-align: center;
+  color: #000000;
+  margin-top: 40px;
 }
 
 .second-img-and-info {
-    margin-top: 40px;
-    display: flex;
+  margin-top: 40px;
+  display: flex;
 }
 
 .second-img {
-    width: 650px;
-    height: 400px;
+  width: 650px;
+  height: 400px;
 }
 
 .second-part-info {
-    background: #491013;
-    padding: 20px;
+  background: #491013;
+  padding: 20px;
 }
 
 .welcome-to-dera-text {
-    font-weight: 700;
-    font-size: 40px;
-    line-height: 55px;
-    color: #FFFFFF;
-    margin-bottom: 20px;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 55px;
+  color: #ffffff;
+  margin-bottom: 20px;
 }
 
 .Our-team-of-ever-ready-text {
-    font-weight: 400;
-    font-size: 30px;
-    line-height: 40px;
-    color: #FFFFFF;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 40px;
+  color: #ffffff;
 }
 
 #Our-team-of-ever-ready {
-    margin-bottom: 50px;
+  margin-bottom: 50px;
 }
 
 .overall-full-box {
-    margin-top: 70px;
-    display: flex;
-    justify-content: center;
-    gap: 30px;
+  margin-top: 70px;
+  display: flex;
+  justify-content: center;
+  gap: 30px;
 }
 
 .full-box {
-    width: 300px;
-    height: 807px;
+  width: 300px;
+  height: 807px;
 }
 
 .icon-and-law-type-name {
-    padding: 15px;
-    border: 2px solid #000000;
-    text-align: center;
+  padding: 15px;
+  border: 2px solid #000000;
+  text-align: center;
 }
 
 .full-box-law-type-name {
-    font-weight: 400;
-    font-size: 30px;
-    line-height: 44px;
-    text-align: center;
-    color: #D48C3E;
-    margin-top: 10px;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 44px;
+  text-align: center;
+  color: #d48c3e;
+  margin-top: 10px;
 }
 
 .full-box-colored-part {
-    padding: 50px 14px;
-    background: #491013;
-    text-align: center;
+  padding: 50px 14px;
+  background: #491013;
+  text-align: center;
 }
 
 .colored-part-text {
-    font-weight: 400;
-    font-size: 25px;
-    line-height: 40px;
-    text-align: center;
-    color: rgba(255, 255, 255, 0.94);
-    margin-bottom: 50px;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 40px;
+  text-align: center;
+  color: rgba(255, 255, 255, 0.94);
+  margin-bottom: 50px;
+}
+
+.white-btn {
+  border: 3px solid #d48c3e;
+  border-radius: 8px;
+  padding: 7px 18px;
+  color: #d48c3e;
+  background: #ffffff;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 27px;
+  
 }
