@@ -268,3 +268,38 @@ li {
   line-height: 28px;
   color: #000000;
 }
+
+.why-choose-us-div {
+  margin-top: 200px;
+  margin-bottom: 70px;
+  background: #4C1818;
+  padding: 40px;
+}
+
+.why-choose-us-first-text {
+  width: 708px;
+  font-style: italic;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 46px;
+  text-align: center;
+  color: #FFFFFF;
+  margin-bottom: 40px;
+}
+
+.why-choose-us-second-text {
+  width: 708px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 51px;
+  color: #FFFFFF;
+  margin-bottom: 40px;
+}
+
+.why-choose-us-img {
+  position: absolute;
+  height: 700px;
+  top: 3948px;
+  left: 750px;
+}
