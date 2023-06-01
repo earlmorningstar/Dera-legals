@@ -270,8 +270,7 @@ li {
 }
 
 .why-choose-us-div {
-  margin-top: 200px;
-  margin-bottom: 70px;
+  margin: 200px 0 100px 0;
   background: #4C1818;
   padding: 40px;
 }
@@ -302,4 +301,37 @@ li {
   height: 700px;
   top: 3948px;
   left: 750px;
+}
+
+.footer-bk {
+  background: #4C1818;
+  padding: 50px 0;
+}
+
+.main-footer-info {
+  margin-bottom: 20px;
+  font-weight: 600;
+}
+
+.footer {
+  margin: 0 120px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.footer-infomation {
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  color: #ffffff;
+}
+
+.hover:hover {
+  text-decoration: underline;
+}
+
+#nav-name-id {
+  color: #ffffff;
 }
